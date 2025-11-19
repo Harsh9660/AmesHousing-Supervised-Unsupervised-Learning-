@@ -51,3 +51,8 @@ print('Variance score: %.2f' % r2_score(y, y_pred))
 plt.scatter(X, y, color='black')
 plt.plot(X, y_pred, color='blue', linewidth=3)  
 plt.show()
+
+
+
+
+"""Supervised Learning"""
